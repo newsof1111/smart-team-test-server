@@ -1,5 +1,5 @@
 this is a node server based in :
-* [Creating demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
+* [Creating demo APIs with json-server](https://github.com/typicode/json-server)
 * [JSONPlaceholder - Live running version](http://jsonplaceholder.typicode.com)
 (JSONPlaceholder is powered by JSON Server)
 
